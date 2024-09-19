@@ -7,7 +7,7 @@ Hola, en este repositorio podran encontrar el backend y frontend correspondiente
 
 ## Introduccion
 La webApp fue realizada con: 
-React 18, Tailwind css, Asp.net 8 con entity framework.
+React 18, Tailwind css, Asp.net 8 con entity framework y sqlServer.
 
 Frontend:
 - Permite al usuario administrador crear usuarios con roles, editar usuarios y eliminarlos.
@@ -26,7 +26,9 @@ npm run dev
 ```
 run backend
 ```bash
-compile solution
+Cargar el script de la base de datos en el motor sqlserver
+Configurar la cadena de conexion en local en la solucion
+Compilar la solucion
 ```
 
 ## Licencia
