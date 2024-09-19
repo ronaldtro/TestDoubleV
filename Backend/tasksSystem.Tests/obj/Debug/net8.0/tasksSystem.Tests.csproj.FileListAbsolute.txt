@@ -1,0 +1,6 @@
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_tasksSystem.Tests
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\obj\Debug\net8.0\tasksSystem.Tests.csproj.AssemblyReference.cache
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\obj\Debug\net8.0\tasksSystem.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\obj\Debug\net8.0\tasksSystem.Tests.AssemblyInfoInputs.cache
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\obj\Debug\net8.0\tasksSystem.Tests.AssemblyInfo.cs
+C:\Users\ronald87\Desktop\Prueba Double V\tasksSystemUnit\tasksSystem.Tests\obj\Debug\net8.0\tasksSystem.Tests.csproj.CoreCompileInputs.cache

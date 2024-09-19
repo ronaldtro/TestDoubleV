@@ -1,0 +1,310 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\requests\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\requests\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\models\\taskssystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\models\\taskssystemdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\requests\\usertaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\requests\\usertaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\requests\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|c:\\users\\ronald87\\desktop\\prueba double v\\taskssystemunit\\taskssystem\\taskssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EC80F8C-1C18-48B6-A42F-B9D1C55DB8A5}|tasksSystem\\tasksSystem.csproj|solutionrelative:taskssystem\\taskssystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\UserController.cs",
+              "RelativeToolTip": "tasksSystem\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:13:24.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\AuthService.cs",
+              "RelativeToolTip": "tasksSystem\\Services\\AuthService.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowDMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:33:46.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "tasksSystem\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:43:49.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "tasksSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\appsettings.json",
+              "RelativeToolTip": "tasksSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-18T19:58:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "tasksSystem\\Services\\UserService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwMYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:29:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Requests\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\AuthRequest.cs",
+              "RelativeToolTip": "tasksSystem\\Requests\\AuthRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:48:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "tasksSystem\\Controllers\\TaskController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:10:14.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Program.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Program.cs",
+              "RelativeToolTip": "tasksSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:08:02.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TasksSystemDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\TasksSystemDbContext.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Models\\TasksSystemDbContext.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\TasksSystemDbContext.cs",
+              "RelativeToolTip": "tasksSystem\\Models\\TasksSystemDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:56:37.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\JwtService.cs",
+              "RelativeToolTip": "tasksSystem\\Services\\JwtService.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwB4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T23:12:17.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Services\\TaskService.cs",
+              "RelativeToolTip": "tasksSystem\\Services\\TaskService.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAA3wLEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:17:48.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTaskRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\UserTaskRequest.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Requests\\UserTaskRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\UserTaskRequest.cs",
+              "RelativeToolTip": "tasksSystem\\Requests\\UserTaskRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:46:11.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Models\\Task.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\Task.cs",
+              "RelativeToolTip": "tasksSystem\\Models\\Task.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:11:18.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "tasksSystem\\Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:12:00.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\UserRequest.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Requests\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Requests\\UserRequest.cs",
+              "RelativeToolTip": "tasksSystem\\Requests\\UserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:58:49.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "tasksSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\Models\\User.cs",
+              "RelativeToolTip": "tasksSystem\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:17:51.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "tasksSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\tasksSystem.csproj",
+              "RelativeDocumentMoniker": "tasksSystem\\tasksSystem.csproj",
+              "ToolTip": "C:\\Users\\ronald87\\Desktop\\Prueba Double V\\tasksSystemUnit\\tasksSystem\\tasksSystem.csproj",
+              "RelativeToolTip": "tasksSystem\\tasksSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T20:28:37.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
